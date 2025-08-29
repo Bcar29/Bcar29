@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Salut, je suis Boubacar
 
-<!--
-**Bcar29/Bcar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Étudiant en **Informatique** et passionné de **développement web**.  
+🚀 J’aime travailler avec **Django**, **React**, et explorer l’**IA** et le **Machine Learning**.  
+🌱 Actuellement, j’apprends **Django REST Framework** et **React Native**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies que j’utilise
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Mes Stats GitHub
+
+![Boubacar's GitHub stats](https://github-readme-stats.vercel.app/api?username=**TON_USERNAME**&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**TON_USERNAME**&layout=compact&theme=radical)
+
+---
+
+## 🌍 Où me trouver
+- 📫 Email : **ton.email@example.com**
+- 💼 LinkedIn : [Ton LinkedIn](https://linkedin.com/in/ton-profil)
+- 🌐 Portfolio : [Ton site](https://ton-site.com)
