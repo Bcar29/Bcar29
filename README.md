@@ -36,18 +36,10 @@
 
 ---
 
-## 📊 Mes Stats GitHub
-
-![Boubacar's GitHub stats](https://github-readme-stats.vercel.app/api?username=**TON_USERNAME**&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**TON_USERNAME**&layout=compact&theme=radical)  
-
----
-
 ## 🌍 Où me trouver
-- 📫 Email : **ton.email@example.com**
-- 💼 LinkedIn : [Ton LinkedIn](https://linkedin.com/in/ton-profil)
-- 🌐 Portfolio : [Ton site](https://ton-site.com)
+- 📫 Email : **alfadev29@gmail.com**
+- 💼 LinkedIn : [LinkedIn](https://linkedin.com/in/ton-profil)
+- 🌐 Portfolio : [afladev](https://ton-site.com)
 
 ---
 ✨ _“Coder aujourd’hui pour impacter demain.”_
