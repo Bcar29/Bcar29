@@ -23,13 +23,13 @@
 
 ## 📊 Mes Stats GitHub
 
-![Boubacar's GitHub stats](https://github-readme-stats.vercel.app/api?username=**TON_USERNAME**&show_icons=true&theme=radical)
+![Boubacar's GitHub stats](https://github-readme-stats.vercel.app/api?username=**Bcar29**&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**TON_USERNAME**&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**Bcar29**&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Où me trouver
-- 📫 Email : **ton.email@example.com**
+- 📫 Email : **alfadev29@gmail.com**
 - 💼 LinkedIn : [Ton LinkedIn](https://linkedin.com/in/ton-profil)
 - 🌐 Portfolio : [Ton site](https://ton-site.com)
